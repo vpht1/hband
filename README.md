@@ -10,6 +10,8 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 
 For a better experience, while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to sms,call,contact,camera,location,background location. The information that we request will be retained by us and used as described in this privacy policy.
 
+The app does use third party services "com.umeng“ that may collect information used to identify you, analyze your crash information as well as counting app downloads.
+
 The app does use third party services that may collect information used to identify you.
 
 Link to privacy policy of third party service providers used by the app
