@@ -33,21 +33,21 @@ The service content refers to the software for health data viewing and managemen
 
 2.2 Service Forms
 
-​		2.2.1 You need to download the H Band client software to use this service. H Band gives you a personal, non-transferable and non-exclusive license, and you have no right to re-license.
+2.2.1 You need to download the H Band client software to use this service. H Band gives you a personal, non-transferable and non-exclusive license, and you have no right to re-license.
 
-​		2.2.2 The software and services are provided by H Band, and may be installed and used on mobile smart terminal devices including but not limited to. You must select the software version that matches the installed terminal device.
+2.2.2 The software and services are provided by H Band, and may be installed and used on mobile smart terminal devices including but not limited to. You must select the software version that matches the installed terminal device.
 
 2.3 Scope of Authorized Services
 
-​		2.3.1 H Band gives you a personal, non-transferable and non-exclusive license, and you have no right to sublicense. You can install, use, display, and run the software on a single terminal device for non-commercial purposes, and you may not install, use, or allow the software to conduct commercial operations.
+2.3.1 H Band gives you a personal, non-transferable and non-exclusive license, and you have no right to sublicense. You can install, use, display, and run the software on a single terminal device for non-commercial purposes, and you may not install, use, or allow the software to conduct commercial operations.
 
-​		2.3.2 You must not copy, change or modify any data of this software, or any data sent to the memory of any terminal device when the software is executed, and interactive data generated between the client and server when the software is executed, or use plug-ins Execute the software, or create any derivative work in any form (including but not limited to plug-ins), or access the software and related systems through unauthorized third-party tools/services.
+2.3.2 You must not copy, change or modify any data of this software, or any data sent to the memory of any terminal device when the software is executed, and interactive data generated between the client and server when the software is executed, or use plug-ins Execute the software, or create any derivative work in any form (including but not limited to plug-ins), or access the software and related systems through unauthorized third-party tools/services.
 
-​		2.3.3 Without the permission of H Band, you may not install this software on other terminal devices not expressly approved by H Band, including but not limited to set-top boxes, game consoles, TVs, DVD players, etc.
+2.3.3 Without the permission of H Band, you may not install this software on other terminal devices not expressly approved by H Band, including but not limited to set-top boxes, game consoles, TVs, DVD players, etc.
 
-​		2.3.4 You can make a copy of this software for the purpose of using this software and services, only as a backup. The backup copy must contain all copyright information contained in the original software.
+2.3.4 You can make a copy of this software for the purpose of using this software and services, only as a backup. The backup copy must contain all copyright information contained in the original software.
 
-​		2.3.5 All other rights not expressly authorized by this article and other terms of this terms are still reserved by H Band, and users must obtain additional written permission from H Band when exercising these rights. If H Band fails to exercise any of the foregoing rights, it does not constitute a waiver of that right.
+2.3.5 All other rights not expressly authorized by this article and other terms of this terms are still reserved by H Band, and users must obtain additional written permission from H Band when exercising these rights. If H Band fails to exercise any of the foregoing rights, it does not constitute a waiver of that right.
 
 
 
@@ -109,21 +109,21 @@ The service content refers to the software for health data viewing and managemen
 
 **7.3 You understand and agree that H Band will use its commercially reasonable efforts to ensure the security of your data storage in the software and services. However, H Band cannot provide a complete guarantee for this, including but not limited to the following situations:**
 
-​		 **7.3.1 H Band is not responsible for the deletion or storage failure of your related data in this software and service;**
+**7.3.1 H Band is not responsible for the deletion or storage failure of your related data in this software and service;**
 
-​		 **7.3.2 H Band has the right to determine the maximum storage period of a single user's data in the software and services according to the actual situation, and allocate the maximum storage space for the data on the server. You can back up the relevant data in the software and services according to your own needs;**
+**7.3.2 H Band has the right to determine the maximum storage period of a single user's data in the software and services according to the actual situation, and allocate the maximum storage space for the data on the server. You can back up the relevant data in the software and services according to your own needs;**
 
-​		 **7.3.3 If you stop using the software and service or the service is terminated or cancelled, H Band can permanently delete your data from the server. After the service is stopped, terminated or cancelled, H Band is not obliged to return any data to you. **
+**7.3.3 If you stop using the software and service or the service is terminated or cancelled, H Band can permanently delete your data from the server. After the service is stopped, terminated or cancelled, H Band is not obliged to return any data to you. **
 
-​		 **7.3.4 When using this software and services, users must bear the following risks beyond the control of H Band, including but not limited to:**
+**7.3.4 When using this software and services, users must bear the following risks beyond the control of H Band, including but not limited to:**
 
-​		 **7.3.5 The risk of personal information loss or leakage that may be caused by irresistible factors;**
+**7.3.5 The risk of personal information loss or leakage that may be caused by irresistible factors;**
 
-​		 **7.3.6 The user must select the software version that matches the installed terminal device, otherwise, any problems or damage caused by the mismatch between the software and the terminal device model will be borne by the user;**
+**7.3.6 The user must select the software version that matches the installed terminal device, otherwise, any problems or damage caused by the mismatch between the software and the terminal device model will be borne by the user;**
 
-​		 **7.3.7 H Band login failure, incomplete data synchronization, slow page opening speed and other risks caused by unstable wireless network signal and low wireless network bandwidth. **
+**7.3.7 H Band login failure, incomplete data synchronization, slow page opening speed and other risks caused by unstable wireless network signal and low wireless network bandwidth. **
 
-​		 **7.3.8 You understand and agree: In the process of using this service, you may encounter force majeure and other risk factors, which will cause the service to be interrupted. Force majeure refers to unforeseen, insurmountable, and unavoidable objective events that have a significant impact on one or both parties, including but not limited to natural disasters such as floods, earthquakes, storms, plagues, etc., and social events such as wars, turmoil, and government actions. **
+**7.3.8 You understand and agree: In the process of using this service, you may encounter force majeure and other risk factors, which will cause the service to be interrupted. Force majeure refers to unforeseen, insurmountable, and unavoidable objective events that have a significant impact on one or both parties, including but not limited to natural disasters such as floods, earthquakes, storms, plagues, etc., and social events such as wars, turmoil, and government actions. **
 
 
 
@@ -131,89 +131,89 @@ The service content refers to the software for health data viewing and managemen
 
 **8.1 Information Content Specification**
 
-​		**8.1.1 You understand and agree that H Band has been committed to providing users with a civilized, healthy, standardized and orderly software environment. When using the software, you must comply with the requirements of the "seven bottom lines", that is, laws and regulations, the socialist system, national interests, citizens' legal rights and rights, social public order, morals and customs, and the authenticity of data. You may not use the software to do the following, including but not limited to:**
+**8.1.1 You understand and agree that H Band has been committed to providing users with a civilized, healthy, standardized and orderly software environment. When using the software, you must comply with the requirements of the "seven bottom lines", that is, laws and regulations, the socialist system, national interests, citizens' legal rights and rights, social public order, morals and customs, and the authenticity of data. You may not use the software to do the following, including but not limited to:**
 
-​			**8.1.1.1 Making, copying, publishing, disseminating or storing content that violates national laws and regulations:**
+**8.1.1.1 Making, copying, publishing, disseminating or storing content that violates national laws and regulations:**
 
-​			 **(1) Violation of the basic principles established by the Constitution;**
+**(1) Violation of the basic principles established by the Constitution;**
 
-​			 **(2) Endangering national security, leaking state secrets, subverting state power, and undermining national unity;**
+**(2) Endangering national security, leaking state secrets, subverting state power, and undermining national unity;**
 
-​			 **(3) Damage to national honor and interests;**
+**(3) Damage to national honor and interests;**
 
-​			 **(4) Inciting ethnic hatred, ethnic discrimination, and undermining ethnic unity;**
+**(4) Inciting ethnic hatred, ethnic discrimination, and undermining ethnic unity;**
 
-​			 **(5) Undermining national religious policies and promoting cults and feudal superstitions;**
+**(5) Undermining national religious policies and promoting cults and feudal superstitions;**
 
-​			 **(6) Spreading rumors, disturbing social order, and undermining social stability;**
+**(6) Spreading rumors, disturbing social order, and undermining social stability;**
 
-​			 **(7) Spreading obscenity, pornography, gambling, violence, terror or instigating crime;**
+**(7) Spreading obscenity, pornography, gambling, violence, terror or instigating crime;**
 
-​			 **(8) Insulting or slandering others, infringing on the lawful rights and interests of others;**
+**(8) Insulting or slandering others, infringing on the lawful rights and interests of others;**
 
-​			 **(9) Inciting illegal assemblies, associations, processions, demonstrations, gathering crowds to disrupt social order;**
+**(9) Inciting illegal assemblies, associations, processions, demonstrations, gathering crowds to disrupt social order;**
 
-​			 **(10) Acting in the name of an illegal civil organization;**
+**(10) Acting in the name of an illegal civil organization;**
 
-​			 **(11) Contains other content prohibited by laws and administrative regulations. **
+**(11) Contains other content prohibited by laws and administrative regulations. **
 
-​			 **8.1.1.2 Publish, transmit, disseminate, store content that infringes on the legal rights of others' reputation rights, portrait rights, intellectual property rights, trade secrets, etc.;**
+**8.1.1.2 Publish, transmit, disseminate, store content that infringes on the legal rights of others' reputation rights, portrait rights, intellectual property rights, trade secrets, etc.;**
 
-​			 **8.1.1.3 Involving the privacy, personal information or data of others;**
+**8.1.1.3 Involving the privacy, personal information or data of others;**
 
-​			 **8.1.1.4 Fabricating facts or concealing the truth to mislead or deceive others;**
+**8.1.1.4 Fabricating facts or concealing the truth to mislead or deceive others;**
 
-​			 **8.1.1.5 Publish, transmit, disseminate harassment, advertising information, excessive marketing information and spam or contain any sexual or sexual implication;**
+**8.1.1.5 Publish, transmit, disseminate harassment, advertising information, excessive marketing information and spam or contain any sexual or sexual implication;**
 
-​			 **8.1.1.6 Other content that violates laws, regulations, policies, public order and good customs, social ethics, or interferes with the normal operation of H Band, and violates the legitimate rights and interests of other users or third parties. **
+**8.1.1.6 Other content that violates laws, regulations, policies, public order and good customs, social ethics, or interferes with the normal operation of H Band, and violates the legitimate rights and interests of other users or third parties. **
 
-​		 **8.1.2 You can use the software to publish data that you have created or that you have the right to publish, such as opinions, data, text, user names, pictures, photos, personal information, links, etc. You must ensure that you own intellectual property rights or have obtained legal authorization for the uploaded data, and that your use of software and services will not infringe the legal rights or rights of any third party. **
+**8.1.2 You can use the software to publish data that you have created or that you have the right to publish, such as opinions, data, text, user names, pictures, photos, personal information, links, etc. You must ensure that you own intellectual property rights or have obtained legal authorization for the uploaded data, and that your use of software and services will not infringe the legal rights or rights of any third party. **
 
-​		 **8.1.3 Without the permission of H Band, you are not allowed to conduct any commercial activities in the software, such as advertising and selling goods. **
+**8.1.3 Without the permission of H Band, you are not allowed to conduct any commercial activities in the software, such as advertising and selling goods. **
 
 **8.2 Software Usage Specifications**
 
-​		 **8.2.1 Unless permitted by law or written permission by H Band, your use of the software and services must abide by this terms and the law, and you must not engage in the following behaviors during the use of this software:**
+**8.2.1 Unless permitted by law or written permission by H Band, your use of the software and services must abide by this terms and the law, and you must not engage in the following behaviors during the use of this software:**
 
-​			 **8.2.1.1 Delete any copyright information of the software and its copies, or modify, delete or circumvent the technical measures adopted by the software to protect intellectual property rights;**
+**8.2.1.1 Delete any copyright information of the software and its copies, or modify, delete or circumvent the technical measures adopted by the software to protect intellectual property rights;**
 
-​			 **8.2.1.2 Reverse engineering, reverse assembly, reverse compilation of this software, or try to find the source code of this software in other ways;**
+**8.2.1.2 Reverse engineering, reverse assembly, reverse compilation of this software, or try to find the source code of this software in other ways;**
 
-​			 **8.2.1.3 Without the written permission of H Band, the user performs any operation on the software or the data contained in it, including but not limited to use, lease, lend, copy, modify, establish a link, reproduce, edit, publish, Publishing, establishing mirror points or unauthorized use of derivative products, works, services, plug-ins, compatibility or interconnections related to software development;**
+**8.2.1.3 Without the written permission of H Band, the user performs any operation on the software or the data contained in it, including but not limited to use, lease, lend, copy, modify, establish a link, reproduce, edit, publish, Publishing, establishing mirror points or unauthorized use of derivative products, works, services, plug-ins, compatibility or interconnections related to software development;**
 
-​			8.2.1.4 Using the software to engage in any behavior harmful to network security, including but not limited to: the software or the data released into the memory of any terminal during the operation of the software, the interaction data between the client and the server during the operation of the software, and the System data necessary for software operation, copy, modify, add, delete, link to run or create any derivative works, including but not limited to the use of plug-ins, plug-ins or non-H Band authorized third-party tools/services to access this Software and related systems; Unauthorized attempts to detect, scan or test the weaknesses of software systems or networks or other behaviors that undermine network security; Attempts to interfere with or disrupt the normal operation of software systems or websites, and deliberately spread malware or viruses , Or perform other actions that disrupt or interfere with normal network information services; forge the name or part of the name of the TCP/IP data packet;**
+8.2.1.4 Using the software to engage in any behavior harmful to network security, including but not limited to: the software or the data released into the memory of any terminal during the operation of the software, the interaction data between the client and the server during the operation of the software, and the System data necessary for software operation, copy, modify, add, delete, link to run or create any derivative works, including but not limited to the use of plug-ins, plug-ins or non-H Band authorized third-party tools/services to access this Software and related systems; Unauthorized attempts to detect, scan or test the weaknesses of software systems or networks or other behaviors that undermine network security; Attempts to interfere with or disrupt the normal operation of software systems or websites, and deliberately spread malware or viruses , Or perform other actions that disrupt or interfere with normal network information services; forge the name or part of the name of the TCP/IP data packet;**
 
-​			 **8.2.1.5 By modifying or forging the instructions and data in the operation of the software, adding, deleting, changing the functions or operating effects of the software, or operating or disseminating the software and methods used for the above purposes to the public, regardless of these Whether the behavior is for commercial purposes;**
+**8.2.1.5 By modifying or forging the instructions and data in the operation of the software, adding, deleting, changing the functions or operating effects of the software, or operating or disseminating the software and methods used for the above purposes to the public, regardless of these Whether the behavior is for commercial purposes;**
 
-​			 **8.2.1.6 Users log in or use software and services through third-party compatible software or systems that are not developed, authorized or approved by H Band, or make, publish or disseminate the above tools;**
+**8.2.1.6 Users log in or use software and services through third-party compatible software or systems that are not developed, authorized or approved by H Band, or make, publish or disseminate the above tools;**
 
-​			 **8.2.1.7 Use software to publish, transmit, disseminate or store content that violates national laws, endangers national security, the unity of the motherland, social stability or public order, or any inappropriate, insulting, obscene or violent content, or violates national laws And the content of the regulations;**
+**8.2.1.7 Use software to publish, transmit, disseminate or store content that violates national laws, endangers national security, the unity of the motherland, social stability or public order, or any inappropriate, insulting, obscene or violent content, or violates national laws And the content of the regulations;**
 
-​			 **8.2.1.8 Use software to publish, transmit, disseminate or store content that violates the legal rights of others' intellectual property rights and trade secrets;**
+**8.2.1.8 Use software to publish, transmit, disseminate or store content that violates the legal rights of others' intellectual property rights and trade secrets;**
 
-​			 **8.2.1.9 Use software to publish, transmit or disseminate advertising data or spam in batches;**
+**8.2.1.9 Use software to publish, transmit or disseminate advertising data or spam in batches;**
 
-​			 **8.2.1.10 Use the software and other services provided by H Band in any illegal way, for any illegal purpose, or in any way that is inconsistent with the licensed use under this terms. **
+**8.2.1.10 Use the software and other services provided by H Band in any illegal way, for any illegal purpose, or in any way that is inconsistent with the licensed use under this terms. **
 
 **8.3 Service Operation Specifications**
 
- **Unless permitted by law or written permission by H Band, you may not engage in the following behaviors during your use of this service:**
+**Unless permitted by law or written permission by H Band, you may not engage in the following behaviors during your use of this service:**
 
-​		**8.3.1 Submitting or publishing false information, or impersonating or using the name of another person;**
+**8.3.1 Submitting or publishing false information, or impersonating or using the name of another person;**
 
-​		**8.3.2 Inducing other users to click on linked pages or share information;**
+**8.3.2 Inducing other users to click on linked pages or share information;**
 
-​		**8.3.3 Fictional facts, concealing the truth to mislead or deceive others;**
+**8.3.3 Fictional facts, concealing the truth to mislead or deceive others;**
 
-​		**8.3.4 Infringement of the legal rights of others' reputation rights, portrait rights, intellectual property rights, trade secrets, etc.;**
+**8.3.4 Infringement of the legal rights of others' reputation rights, portrait rights, intellectual property rights, trade secrets, etc.;**
 
-​		**8.3.5 Use any function and third-party operating platform for promotion or mutual promotion without the written permission of H Band;**
+**8.3.5 Use any function and third-party operating platform for promotion or mutual promotion without the written permission of H Band;**
 
-​		**8.3.6 Use H Band or the software and services to engage in any illegal or criminal activities;**
+**8.3.6 Use H Band or the software and services to engage in any illegal or criminal activities;**
 
-​		**8.3.7 Making and publishing methods and tools related to the above behaviors, or operating or disseminating such methods and tools, regardless of whether these behaviors are for commercial purposes;**
+**8.3.7 Making and publishing methods and tools related to the above behaviors, or operating or disseminating such methods and tools, regardless of whether these behaviors are for commercial purposes;**
 
-​		**8.3.8 Other violations of laws and regulations, infringement of the legitimate rights and interests of other users, interference with the normal operation of the product, or H Band has not expressly authorized behavior. **
+**8.3.8 Other violations of laws and regulations, infringement of the legitimate rights and interests of other users, interference with the normal operation of the product, or H Band has not expressly authorized behavior. **
 
 **8.4 Responsible for own actions**
 
@@ -223,13 +223,13 @@ The service content refers to the software for health data viewing and managemen
 
 **You understand and agree:**
 
-​		**8.5.1 H Band will determine whether the user is suspected of violating the above-mentioned use regulations, and will suspend or terminate the license to you based on the judgment result, or take other restrictive measures in accordance with this terms;**
+**8.5.1 H Band will determine whether the user is suspected of violating the above-mentioned use regulations, and will suspend or terminate the license to you based on the judgment result, or take other restrictive measures in accordance with this terms;**
 
-​		**8.5.2 H Band will directly delete any data that is suspected of being illegal or infringing on the legal rights of others or that violates this terms when the user uses the licensed software;**
+**8.5.2 H Band will directly delete any data that is suspected of being illegal or infringing on the legal rights of others or that violates this terms when the user uses the licensed software;**
 
-​		**8.5.3 If you violate the above rules of use and cause damage to a third party, you must bear the responsibility independently in your own name and protect H Band from any loss or expense damage arising therefrom;**
+**8.5.3 If you violate the above rules of use and cause damage to a third party, you must bear the responsibility independently in your own name and protect H Band from any loss or expense damage arising therefrom;**
 
-​		**8.5.4 The user shall be responsible for any and all losses, third-party claims, administrative penalties, damages and/or expenses (including reasonable attorney’s fees, investigation And evidence collection fees) to provide indemnity and protect H Band from loss. **
+**8.5.4 The user shall be responsible for any and all losses, third-party claims, administrative penalties, damages and/or expenses (including reasonable attorney’s fees, investigation And evidence collection fees) to provide indemnity and protect H Band from loss. **
 
 
 
@@ -263,15 +263,15 @@ The service content refers to the software for health data viewing and managemen
 
 **10.10 For the loss of profits, data loss, business interruption or other business damage caused by or related to the following reasons, the user shall be solely responsible for personal injury, accident or consequential loss. Relevant circumstances include but are not limited to:**
 
-​		 **(1) Use or fail to use the licensed software;**
+**(1) Use or fail to use the licensed software;**
 
-​		 **(2) A third party uses the software without authorization or modifies user data;**
+**(2) A third party uses the software without authorization or modifies user data;**
 
-​		 **(3) Expenses and losses incurred by the user during the use of the software;**
+**(3) Expenses and losses incurred by the user during the use of the software;**
 
-​		 **(4) The user misunderstood the software;**
+**(4) The user misunderstood the software;**
 
-​		 **(5) Other losses related to the software are not caused by H Band. **
+**(5) Other losses related to the software are not caused by H Band. **
 
 **10.11 If any personal injury or property damage is caused by the actions taken by the user or other software users through any software, or the user is misled or fraudulent, the party at fault shall bear all the responsibilities caused thereby. **
 
