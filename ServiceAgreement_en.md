@@ -8,11 +8,11 @@ Latest update: November 24, 2021
 
 **Thank you for choosing H Band and services!**
 
-** In order to use H Band software and services (hereinafter referred to as "H Band"), you shall read and abide by the "Agreement on Service of H Band" (hereinafter referred to as the "Agreement"). Please be sure to read carefully and fully understand the content of the various terms, especially the terms of exemption and limitation of liability, and whether to accept the terms. Restrictions and disclaimers may be in bold and other forms to remind users. **
+**In order to use H Band software and services (hereinafter referred to as "H Band"), you shall read and abide by the "Agreement on Service of H Band" (hereinafter referred to as the "Agreement"). Please be sure to read carefully and fully understand the content of the various terms, especially the terms of exemption and limitation of liability, and whether to accept the terms. Restrictions and disclaimers may be in bold and other forms to remind users. **
 
-** Unless you have read and accept all terms specified in this agreement, you may not download, install or use the software and related services. Any behavior including downloading, installing, using, logging in, etc. shall be deemed that you have read and agreed to the terms of the Agreement. **
+**Unless you have read and accept all terms specified in this agreement, you may not download, install or use the software and related services. Any behavior including downloading, installing, using, logging in, etc. shall be deemed that you have read and agreed to the terms of the Agreement. **
 
-** If you are a minor under 14 years old, do not use H Band; if you are over 14 years old but under 18 years old, please read the Agreement with your legal guardian, and pay special attention to the terms of use for minors. Minors between 14 and 8 years of age can use H Band only after obtaining a guardian's consent. **
+**If you are a minor under 14 years old, do not use H Band; if you are over 14 years old but under 18 years old, please read the Agreement with your legal guardian, and pay special attention to the terms of use for minors. Minors between 14 and 8 years of age can use H Band only after obtaining a guardian's consent. **
 
 
 
