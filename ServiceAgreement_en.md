@@ -6,7 +6,7 @@ Latest update: November 24, 2021
 
 # Preamble
 
-** Thank you for choosing H Band and services! **
+**Thank you for choosing H Band and services!**
 
 ** In order to use H Band software and services (hereinafter referred to as "H Band"), you shall read and abide by the "Agreement on Service of H Band" (hereinafter referred to as the "Agreement"). Please be sure to read carefully and fully understand the content of the various terms, especially the terms of exemption and limitation of liability, and whether to accept the terms. Restrictions and disclaimers may be in bold and other forms to remind users. **
 
