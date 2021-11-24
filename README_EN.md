@@ -2,7 +2,7 @@
 
 
 
-Latest update: November 19, 2021
+Latest update: November 24, 2021
 
 In order to fully protect your rights, we have updated the "H Band Personal Information Protection and Privacy Policy". This version of the update mainly focuses on:
 
@@ -14,7 +14,7 @@ In order to fully protect your rights, we have updated the "H Band Personal Info
 
 # Overview
 
-Welcome to H Band! H Band is a free application developed by Zhang Jiafu (hereinafter referred to as "H Band", "we","us","our service" or "our product").
+Welcome to H Band! H Band is a free application developed by Jiafu Zhang (hereinafter referred to as "H Band", "we","us","our service" or "our product").
 
 Our privacy policy will elaborate on how we collect and use your personal information when you use our products and services, as well as the information control we provide you and the measures we take to protect information security.
 
@@ -120,9 +120,9 @@ Based on the product used, the method of use or acquisition, and your authorizat
 
 ### Information we receive from third parties
 
-We will not actively obtain your personal information from third parties outside Shenzhen Tencent Computer System Co., Ltd. If it is necessary for business development to obtain your personal information from a third party that has not been described below, we will verify the legality of the source according to law, or clearly indicate to you the source, type and scope of use of your personal information before obtaining it, such as H Band development The personal information processing activities required for the business exceed your original provision of personal information to third parties
+We will not actively obtain your personal information from third parties. If it is necessary for business development to obtain your personal information from a third party that has not been described below, we will verify the legality of the source according to law, or clearly indicate to you the source, type and scope of use of your personal information before obtaining it, such as H Band development The personal information processing activities required for the business exceed your original provision of personal information to third parties.
 
-Within the scope of authorization and consent, we will obtain your express consent before processing your personal information; in addition, we will strictly abide by relevant laws and regulations, and require third parties to protect the legality of the information they provide .
+Within the scope of authorization and consent, we will obtain your express consent before processing your personal information; in addition, we will strictly abide by relevant laws and regulations, and require third parties to protect the legality of the information they provide.
 
 
 
@@ -134,7 +134,7 @@ In order to provide you with certain functions and services, we may ask you in a
 
 Enabling these permissions means that you authorize us to collect and process this personal information when using related functions and services. We will only use your system permissions when you use related functions. Closing these permissions means that you withdraw these authorizations. We will no longer continue to collect and use your personal information, but we will not be able to provide you with the functions and services corresponding to these permissions. The decision to close the above authority will not affect the previous processing of personal information based on your authorization.
 
-** To understand the specific system permissions you need to authorize, the purpose of application, the type of information processed, whether it can be closed and the steps to close, please refer to "Appendix 1 Permission Application Instructions". **
+**To understand the specific system permissions you need to authorize, the purpose of application, the type of information processed, whether it can be closed and the steps to close, please refer to "Appendix 1 Permission Application Instructions". **
 
 When using an Android mobile device, the permission display method and the closing method may be different. If you cannot find the corresponding function, you can ask the device and system provider for help.
 
@@ -212,8 +212,8 @@ These purposes are based on your consent to this privacy policy, and we will obt
 Our products work through wireless connections (Wifi, Bluetooth, 3G/4G), support product configuration, and transfer and synchronize the data collected by your H Band account. Some functions are only available after connecting the product and the application. When you synchronize the product with the mobile application, the personal data collected by the product will be stored. **When you have logged in to your H Band online account and enable data synchronization, personal data will be transferred to your H Band online account on the server. **This synchronization is necessary on our servers **located in mainland China** in order to:
 
 -Update the product's software to fix bugs, add new features, or apply changes necessary for the evolution of laws and regulations in the field of data;
--Data backup: If the Android device on which the app is installed is lost or stolen, you will be able to restore all data;
--No need to be close to the Android device where the app is installed, you can also perform measurement;
+-Data backup: If the Android or iOS device on which the app is installed is lost or stolen, you will be able to restore all data;
+-No need to be close to the Android or iOS device where the app is installed, you can also perform measurement;
 -Share your data on multiple devices: You can get the latest measurement results through your H Band personal account and any device where the app is installed.
 
 
@@ -429,6 +429,18 @@ For issues related to this policy or personal information protection, we will re
 
 
 
+### iOS
+
+| Name                   | **Function description**            | Use purpose or scenario                                      | **Type of information processed**                       | **Can it be closed** | Close method                                         |
+| ---------------------- | ----------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------- | -------------------- | ---------------------------------------------------- |
+| CAMERA                 | Use the camera function             | Use smart wearable devices to control the phone to take pictures | Biometric information                                   | Yes                  | Settings-Application-Turn off the camera             |
+| LOCATION               | Use GPS location function           | Use the motion trajectory record function with GPS information | Location information                                    | Yes                  | Settings-Applications-Turn off location              |
+| PHOTOS                 | Use the photo function              | Use photo as user avatar and watch face                      | Media information                                       | Yes                  | Settings-Application-Turn off photos                 |
+| NOTIFICATIONS          | Use the notification function       | Push the notification on the phone to the device             | Communication information                               | Yes                  | Settings-Application-Turn off notifications          |
+| BACKGROUND APP REFRESH | Use the background refresh function | Power consumption optimization for users to control the app  | Device identification information, location information | Yes                  | Settings-Application-Turn off background app refresh |
+
+
+
 
 
 # Appendix 2  Instructions for Third-Party SDK Usage
@@ -437,15 +449,22 @@ For issues related to this policy or personal information protection, we will re
 
 | Name                   | **Third Party Name**                           | **Purpose of Use or Scenario**                               | **Type of Information Processed**                       | **Official Website**                   |
 | ---------------------- | ---------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------- | -------------------------------------- |
-| Umeng（友盟）SDK       | Beijing Ruixun Lingtong Technology Co., Ltd.   | Statistical analysis and crash log analysis for applications | Device identification information                       | https://www.umeng.com/                 |
+| Umeng SDK              | Beijing Ruixun Lingtong Technology Co., Ltd.   | Statistical analysis and crash log analysis for applications | Device identification information                       | https://www.umeng.com/                 |
 | Google Maps SDK        | Google                                         | Used to display maps                                         | Device identification information, location information | https://developers.google.cn/maps/     |
 | Google positioning SDK | Google                                         | Used to realize positioning                                  | Device identification information, location information | ~~https://developers.google.cn/maps/~~ |
 | mob_sms SDK            | Guangzhou ZhangTao Network Technology Co.,Ltd. | User sends SMS verification code                             | Communication information                               | https://www.mob.com/                   |
 
 
 
+### iOS
+
+| Name        | **Third Party Name**                           | **Purpose of Use or Scenario**                               | **Type of Information Processed** | **Official Website**   |
+| ----------- | ---------------------------------------------- | ------------------------------------------------------------ | --------------------------------- | ---------------------- |
+| Umeng SDK   | Beijing Ruixun Lingtong Technology Co., Ltd.   | Statistical analysis and crash log analysis for applications | Device identification information | https://www.umeng.com/ |
+| mob_sms SDK | Guangzhou ZhangTao Network Technology Co.,Ltd. | User sends SMS verification code                             | Communication information         | https://www.mob.com/   |
+
 
 
 (End)
 
-Zhang Jiafu
+Jiafu Zhang
