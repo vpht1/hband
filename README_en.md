@@ -53,7 +53,7 @@ The length of time we retain your information depends on the type of information
 
 
 
-### What rights do you have**? **
+### What rights do you have**? 
 
 According to laws and regulations, you have the right to access, export, edit, correct, transmit, restrict processing, and delete personal information. You also have the right to object to our use of your information and to exercise legal and legitimate rights and interests with respect to the information of deceased relatives.
 
@@ -67,7 +67,7 @@ If you have any questions or complaints about this privacy policy or your person
 
 
 
-### If you want to know more detailed information, please read the corresponding chapters according to the following index:
+### If you want to know more detailed information, please read the corresponding chapters:
 
 
 # 1. Definition and scope of application
@@ -76,13 +76,13 @@ If you have any questions or complaints about this privacy policy or your person
 
 **Personal sensitive information** refers to personal information that, once leaked, illegally provided or misused, may endanger personal and property safety, and easily lead to personal reputation, physical and mental health damage, or discriminatory treatment. Including biometrics, religious beliefs, specific identities, medical and health, financial accounts, whereabouts, genetic data and other information, as well as personal information of minors under the age of fourteen.
 
-**De-identification,** through the technical processing of personal information (using pseudonym, encryption, hash function and other technical means to replace the identification of personal information), so that it cannot be identified or associated without additional information The process of the subject of personal information.
+**De-identification**, through the technical processing of personal information (using pseudonym, encryption, hash function and other technical means to replace the identification of personal information), so that it cannot be identified or associated without additional information The process of the subject of personal information.
 
-**Anonymization,** through the technical processing of personal information, so that the subject of personal information cannot be identified or associated, and the processed information cannot be restored. The information obtained after anonymization is not personal information.
+**Anonymization**, through the technical processing of personal information, so that the subject of personal information cannot be identified or associated, and the processed information cannot be restored. The information obtained after anonymization is not personal information.
 
-**Non-personal information,** refers to other information that cannot identify a specific natural person or reflect the activities of a specific natural person.
+**Non-personal information**, refers to other information that cannot identify a specific natural person or reflect the activities of a specific natural person.
 
-**Service log information,** including IP address, browser type, telecom operator, language used, date and time of access.
+**Service log information**, including IP address, browser type, telecom operator, language used, date and time of access.
 
 
 
@@ -146,8 +146,8 @@ When using an Android mobile device, the permission display method and the closi
 
 We will only collect and process when you use related functions or services "2. What information will we collect or process? "Relevant information mentioned in. E.g:
 
--**When creating** **H Band** **Account**, you will provide some basic personal information. Your H Band account is a core component of products and services so that you can access and control your personal data.
--**When you use our app,** some personal data will be registered in your H Band account. This is the case when you set alarms, share information, measure steps, fill in fields in apps, and install and synchronize products and apps. All personal data we collect when you use the app will be stored in your H Band account.
+-**When create H Band Account**, you will provide some basic personal information. Your H Band account is a core component of products and services so that you can access and control your personal data.
+-**When you use our app**, some personal data will be registered in your H Band account. This is the case when you set alarms, share information, measure steps, fill in fields in apps, and install and synchronize products and apps. All personal data we collect when you use the app will be stored in your H Band account.
 -**When you use our products and services**, we will collect your personal data to help you monitor your health. Each product needs to collect and process specific personal data. In our **Help Center**, you can consult the user guide for each product, which contains all the information specific to the personal data processed by each product, especially how it is configured.
 -**When you contact our customer support team**, our team can temporarily obtain some personal data of your H Band account until the problem is solved.
 
@@ -209,7 +209,7 @@ These purposes are based on your consent to this privacy policy, and we will obt
 
 ### How does our product work?
 
-Our products work through wireless connections (Wifi, Bluetooth, 3G/4G), support product configuration, and transfer and synchronize the data collected by your H Band account. Some functions are only available after connecting the product and the application. When you synchronize the product with the mobile application, the personal data collected by the product will be stored. **When you have logged in to your H Band online account and enable data synchronization, personal data will be transferred to your H Band online account on the server. **This synchronization is necessary on our servers **located in mainland China** in order to:
+Our products work through wireless connections (Wifi, Bluetooth, 3G/4G), support product configuration, and transfer and synchronize the data collected by your H Band account. Some functions are only available after connecting the product and the application. When you synchronize the product with the mobile application, the personal data collected by the product will be stored. **When you have logged in to your H Band online account and enable data synchronization, personal data will be transferred to your H Band online account on the server. This synchronization is necessary on our servers located in mainland China** in order to:
 
 -Update the product's software to fix bugs, add new features, or apply changes necessary for the evolution of laws and regulations in the field of data;
 -Data backup: If the Android or iOS device on which the app is installed is lost or stolen, you will be able to restore all data;
