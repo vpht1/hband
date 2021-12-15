@@ -1,13 +1,11 @@
 # H Band Personal Information Protection and Privacy Policy
 
 
-
-Latest update: November 24, 2021
+Latest update: December 10, 2021
 
 In order to fully protect your rights, we have updated the "H Band Personal Information Protection and Privacy Policy". This version of the update mainly focuses on:
 
 1. Disclosure of the system permissions and third-party SDKs that need to be requested in advance to ensure the realization of some independent functions. For details, please refer to "Appendix 1 Permission Usage Instructions" and "Appendix 2 Third Party SDK Usage Instructions".
-
 
 
 
@@ -20,7 +18,7 @@ Our privacy policy will elaborate on how we collect and use your personal inform
 
 
 
-The following is an overview of the information contained in this privacy policy, which aims to help you grasp the main points of the privacy policy, understand how H Band will collect, use and store your personal information and what rights you have. **Reading this summary does not mean that you have read the full text of this policy! Please read and understand all the contents of this "Personal Information Protection and Privacy Policy" carefully before using our services, and hope that you can make appropriate choices based on your understanding. **
+The following is an overview of the information contained in this privacy policy, which aims to help you grasp the main points of the privacy policy, understand how H Band will collect, use and store your personal information and what rights you have. **Reading this summary does not mean that you have read the full text of this policy! Please read and understand all the contents of this "Personal Information Protection and Privacy Policy" carefully before using our services, and hope that you can make appropriate choices based on your understanding**.
 
 
 
@@ -28,20 +26,20 @@ The following is an overview of the information contained in this privacy policy
 
 We will use your information to help you improve your health and manage your smart wearable devices:
 
-1. **E-mail or mobile phone number: **Used to register and log in to an account; no need to provide it when logging in with a local account (no account).
-2. **Gender, height, weight, date of birth: **Used to calculate calories burned during daily activities and distance exercised.
-3. **Contact list, call log: **Used to provide communication notification service according to demand.
-4. **Approximate location information: **According to the requirements of the Android system, scan the surrounding Bluetooth devices via GPS.
-5. **Accurate location information: **Used to record tracks in motion or provide real-time weather services.
-6. **Album: **Used to set personalized services, such as the dial of a watch.
-7. **Mobile application notification information: **Provide communication notification service according to demand.
-8. **IP address, browser type, application crash information: **Provide technical support to solve product and service problems.
+1. **E-mail or mobile phone number**: Used to register and log in to an account; no need to provide it when logging in with a local account (no account).
+2. **Gender, height, weight, date of birth**: Used to calculate calories burned during daily activities and distance exercised.
+3. **Contact list, call log**: Used to provide communication notification service according to demand.
+4. **Approximate location information**: According to the requirements of the Android system, scan the surrounding Bluetooth devices via GPS.
+5. **Accurate location information**: Used to record tracks in motion or provide real-time weather services.
+6. **Album**: Used to set personalized services, such as the dial of a watch.
+7. **Mobile application notification information**: Provide communication notification service according to demand.
+8. **IP address, browser type, application crash information**: Provide technical support to solve product and service problems.
 
 
 
 ### Who do we share your data with?
 
-We will not actively share or transfer your personal information to third parties other than H Band **(except as otherwise provided by laws and regulations or when necessary to protect the rights and interests of users).**
+We will not actively share or transfer your personal information to third parties other than H Band **(except as otherwise provided by laws and regulations or when necessary to protect the rights and interests of users)**.
 
 When you need us to share or transfer your personal information to a third party other than H Band, we will directly obtain your consent or confirm that the third party obtains your express consent to the above behavior. At the same time, we will conduct risk assessments on third parties who provide information to external parties to ensure that third parties need to provide the same or equivalent protection of personal information as described in this privacy policy and then share or transfer in accordance with the law.
 
@@ -53,7 +51,7 @@ The length of time we retain your information depends on the type of information
 
 
 
-### What rights do you have**? 
+### What rights do you have?
 
 According to laws and regulations, you have the right to access, export, edit, correct, transmit, restrict processing, and delete personal information. You also have the right to object to our use of your information and to exercise legal and legitimate rights and interests with respect to the information of deceased relatives.
 
@@ -70,19 +68,20 @@ If you have any questions or complaints about this privacy policy or your person
 ### If you want to know more detailed information, please read the corresponding chapters:
 
 
+
 # 1. Definition and scope of application
 
 **Personal information** refers to various information recorded electronically or in other ways that can identify a specific natural person alone or in combination with other information or reflect the activities of a specific natural person.
 
 **Personal sensitive information** refers to personal information that, once leaked, illegally provided or misused, may endanger personal and property safety, and easily lead to personal reputation, physical and mental health damage, or discriminatory treatment. Including biometrics, religious beliefs, specific identities, medical and health, financial accounts, whereabouts, genetic data and other information, as well as personal information of minors under the age of fourteen.
 
-**De-identification**, through the technical processing of personal information (using pseudonym, encryption, hash function and other technical means to replace the identification of personal information), so that it cannot be identified or associated without additional information The process of the subject of personal information.
+**De-identification**,  through the technical processing of personal information (using pseudonym, encryption, hash function and other technical means to replace the identification of personal information), so that it cannot be identified or associated without additional information The process of the subject of personal information.
 
-**Anonymization**, through the technical processing of personal information, so that the subject of personal information cannot be identified or associated, and the processed information cannot be restored. The information obtained after anonymization is not personal information.
+**Anonymization**,  through the technical processing of personal information, so that the subject of personal information cannot be identified or associated, and the processed information cannot be restored. The information obtained after anonymization is not personal information.
 
-**Non-personal information**, refers to other information that cannot identify a specific natural person or reflect the activities of a specific natural person.
+**Non-personal information**,  refers to other information that cannot identify a specific natural person or reflect the activities of a specific natural person.
 
-**Service log information**, including IP address, browser type, telecom operator, language used, date and time of access.
+**Service log information**,  including IP address, browser type, telecom operator, language used, date and time of access.
 
 
 
@@ -97,9 +96,9 @@ Based on the product used, the method of use or acquisition, and your authorizat
 | Type of Information               | Information                                     | Nature of Information                    | Processing Purpose and Scenario                              | Storage Period                                               |
 | :-------------------------------- | :---------------------------------------------- | :--------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | Account information               | Nickname, email address or mobile phone number. | Non-sensitive information, not necessary | -Used to register and log in to the account; <br />- You do not need to provide the above information when logging in with a local account (no account). | The account information will be retained until you request to remove the information or delete your account, whichever is earlier. |
-| **Basic personal information**    | **Gender, height, weight, date of birth**.      | **Non-sensitive information, necessary** | **- Used to calculate your calories burned during daily activities and the distance you exercise. ** | Basic physical information will be retained until your account is deleted. |
+| **Basic personal information**    | **Gender, height, weight, date of birth**.      | **Non-sensitive information, necessary** | **- Used to calculate your calories burned during daily activities and the distance you exercise**. | Basic physical information will be retained until your account is deleted. |
 | Contact information               | Contact list, call history.                     | Sensitive information, non-essential     | -Provide you with communication notification services according to your needs. | Contact information will not be uploaded to the server, and will be retained until you uninstall the application or request to remove the information, whichever is earlier. |
-| **Location Information**          | **Approximate location information. **          | **Non-sensitive information, necessary** | **- According to the requirements of the Android system, scan the Bluetooth devices around you via GPS broadcast. ** | The approximate location information will not be uploaded to the server, and will be deleted immediately after you exit this function. |
+| **Location Information**          | **Approximate location information**.           | **Non-sensitive information, necessary** | **- According to the requirements of the Android system, scan the Bluetooth devices around you via GPS broadcast**. | The approximate location information will not be uploaded to the server, and will be deleted immediately after you exit this function. |
 | Media Information                 | Album.                                          | Sensitive information, non-essential     | -Used to set personalized services, such as the watch face of a smart wearable device. | Media information will not be uploaded to the server, and will remain until you uninstall the application or request to remove the information, whichever is earlier. |
 | Women's Physiological Information | Menstrual duration, menstrual cycle.            | Sensitive information, non-essential     | -Used to provide you with related services to track and predict your menstrual period. | Female physiological information will be retained until you request to remove the information or permanently deleted after 6 months from the date you cancel your account, whichever is earlier. <br />**After you log out of your account, the female menstrual period information will be anonymized**. |
 
@@ -112,7 +111,7 @@ Based on the product used, the method of use or acquisition, and your authorizat
 | Activity Information     | Number of steps, walking distance, calories burned, activity duration. | Non-sensitive information, non-essential | -To help you understand your daily activities.               | The event information will be retained until you request the removal of the information or it will be permanently deleted after 6 months from the date you cancel your account, whichever is earlier. |
 | Health Information       | Heart rate, sleep status, blood oxygen, electrocardiogram (ECG), body temperature, heart rate variability (HRV), etc. | Non-sensitive information, non-essential | -To help you understand your physical state.                 | Health information will be retained until you request to remove the information or permanently deleted after 6 months from the date you cancel your account, whichever is earlier. |
 | Location information     | Accurate location information, whereabouts.                  | Sensitive information, not necessary     | -Record the trajectory in motion; <br />- Provide real-time weather services. | -The location information used to record the motion track will be retained until you request the removal of the information or it will be permanently deleted after 6 months from the date you log out of your account, whichever is earlier. <br />- The location information used to provide real-time weather services will not be uploaded to the server and will be retained until you uninstall the application or request the removal of the information, whichever is earlier. |
-| Product Information      | **Product activation date, battery measurement data, production number, debugging technical information, etc. ** | **Non-sensitive information, necessary** | -When you use our products, the product information will be used to update the product status. | Product information is not associated with personal information, it will be anonymized and stored permanently. |
+| Product Information      | **Product activation date, battery measurement data, production number, debugging technical information, etc**. | **Non-sensitive information, necessary** | -When you use our products, the product information will be used to update the product status. | Product information is not associated with personal information, it will be anonymized and stored permanently. |
 | Notification information | Mobile application notification information.                 | Sensitive information, non-essential     | -Provide you with communication notification services according to your needs. | The notification information is only used to be synchronized to the smart wearable device for display, the application does not save, and the smart wearable device side will remain until you request to remove the information. |
 | Service log information  | IP address, browser type, telecom operator, language used, access date and time, application crash information | Non-sensitive information, necessary     | -Provide you with technical support to solve product and service problems. | Service log information is not associated with personal information and will be permanently deleted after 6 months from the date of collection. |
 
@@ -134,7 +133,7 @@ In order to provide you with certain functions and services, we may ask you in a
 
 Enabling these permissions means that you authorize us to collect and process this personal information when using related functions and services. We will only use your system permissions when you use related functions. Closing these permissions means that you withdraw these authorizations. We will no longer continue to collect and use your personal information, but we will not be able to provide you with the functions and services corresponding to these permissions. The decision to close the above authority will not affect the previous processing of personal information based on your authorization.
 
-**To understand the specific system permissions you need to authorize, the purpose of application, the type of information processed, whether it can be closed and the steps to close, please refer to "Appendix 1 Permission Application Instructions". **
+**To understand the specific system permissions you need to authorize, the purpose of application, the type of information processed, whether it can be closed and the steps to close, please refer to "Appendix 1 Permission Application Instructions"**.
 
 When using an Android mobile device, the permission display method and the closing method may be different. If you cannot find the corresponding function, you can ask the device and system provider for help.
 
@@ -146,8 +145,8 @@ When using an Android mobile device, the permission display method and the closi
 
 We will only collect and process when you use related functions or services "2. What information will we collect or process? "Relevant information mentioned in. E.g:
 
--**When create H Band Account**, you will provide some basic personal information. Your H Band account is a core component of products and services so that you can access and control your personal data.
--**When you use our app**, some personal data will be registered in your H Band account. This is the case when you set alarms, share information, measure steps, fill in fields in apps, and install and synchronize products and apps. All personal data we collect when you use the app will be stored in your H Band account.
+-**When creating H Band Account**, you will provide some basic personal information. Your H Band account is a core component of products and services so that you can access and control your personal data. <br />
+-**When you use our app**,  some personal data will be registered in your H Band account. This is the case when you set alarms, share information, measure steps, fill in fields in apps, and install and synchronize products and apps. All personal data we collect when you use the app will be stored in your H Band account. <br />
 -**When you use our products and services**, we will collect your personal data to help you monitor your health. Each product needs to collect and process specific personal data. In our **Help Center**, you can consult the user guide for each product, which contains all the information specific to the personal data processed by each product, especially how it is configured.
 -**When you contact our customer support team**, our team can temporarily obtain some personal data of your H Band account until the problem is solved.
 
@@ -209,7 +208,7 @@ These purposes are based on your consent to this privacy policy, and we will obt
 
 ### How does our product work?
 
-Our products work through wireless connections (Wifi, Bluetooth, 3G/4G), support product configuration, and transfer and synchronize the data collected by your H Band account. Some functions are only available after connecting the product and the application. When you synchronize the product with the mobile application, the personal data collected by the product will be stored. **When you have logged in to your H Band online account and enable data synchronization, personal data will be transferred to your H Band online account on the server. This synchronization is necessary on our servers located in mainland China** in order to:
+Our products work through wireless connections (Wifi, Bluetooth, 3G/4G), support product configuration, and transfer and synchronize the data collected by your H Band account. Some functions are only available after connecting the product and the application. When you synchronize the product with the mobile application, the personal data collected by the product will be stored. **When you have logged in to your H Band online account and enable data synchronization, personal data will be transferred to your H Band online account on the server**. This synchronization is necessary on our servers **located in mainland China** in order to:
 
 -Update the product's software to fix bugs, add new features, or apply changes necessary for the evolution of laws and regulations in the field of data;
 -Data backup: If the Android or iOS device on which the app is installed is lost or stolen, you will be able to restore all data;
@@ -222,7 +221,7 @@ Our products work through wireless connections (Wifi, Bluetooth, 3G/4G), support
 
 In order to ensure the realization of some independent functions, so that you can use and enjoy more services and functions, we will embed third-party SDKs in the application, and we will carefully evaluate the purpose of using these SDKs.
 
-**For more information about the purpose, method and scope of the SDK's handling of personal information, please refer to "Appendix 2 Third Party SDK Instructions". **
+**For more information about the purpose, method and scope of the SDK's handling of personal information, please refer to "Appendix 2 Third Party SDK Instructions"**.
 
 
 
@@ -256,7 +255,7 @@ We may retain or disclose information about you to comply with laws, regulations
 6. Personal information that the subject of personal information discloses to the public by himself;
 7. Collect personal information from legally publicly disclosed information, such as legal news reports, government information disclosure and other channels.
 
-**Please note:** Our policy is to notify you of legal procedures seeking access to your information, such as search warrants, court orders, or subpoenas. If the court specifies a confidentiality period, we will provide a delay notice after the confidentiality period expires.
+**Please note**:  Our policy is to notify you of legal procedures seeking access to your information, such as search warrants, court orders, or subpoenas. If the court specifies a confidentiality period, we will provide a delay notice after the confidentiality period expires.
 
 
 
@@ -332,7 +331,7 @@ For example, through your privacy settings, you can limit the visibility of your
 
 ### Logout
 
-**If you choose to delete your account, most of your information will be deleted immediately, but a small amount of information may take up to six months to be permanently deleted. For specific time, see "10. How long will we keep your personal data? time? ". In addition, we may also retain information or prevent harm for legal reasons. **
+**If you choose to delete your account, most of your information will be deleted immediately, but a small amount of information may take up to six months to be permanently deleted. For specific time, see "10. How long will we keep your personal data? time? ". In addition, we may also retain information or prevent harm for legal reasons**.
 
 Please note that the account cancellation operation cannot be revoked. If you have cancelled your H Band account and want to use our products and services again, you only need to create a new account, but the personal information before the account cancellation can no longer be retrieved.
 
@@ -355,13 +354,13 @@ If you have cancelled your H Band account and want to use our products and servi
 | Account information               | Nickname, email address or mobile phone number.              | The account information will be retained until you request to remove the information or delete your account, whichever is earlier. |
 | **Basic personal information**    | **Gender, height, weight, date of birth**.                   | Basic physical information will be retained until your account is deleted. |
 | Contact information               | Contact list, call history.                                  | Contact information will not be uploaded to the server, and will be retained until you uninstall the application or request to remove the information, whichever is earlier. |
-| **Location Information**          | **Approximate location information. **                       | The approximate location information will not be uploaded to the server, and will be deleted immediately after you exit this function. |
+| **Location Information**          | **Approximate location information**.                        | The approximate location information will not be uploaded to the server, and will be deleted immediately after you exit this function. |
 | Location information              | Accurate location information, whereabouts.                  | -The location information used to record the motion track will be retained until you request the removal of the information or it will be permanently deleted after 6 months from the date you log out of your account, whichever is earlier. <br />- The location information used to provide real-time weather services will not be uploaded to the server and will be retained until you uninstall the application or request the removal of the information, whichever is earlier. |
 | Media Information                 | Album.                                                       | Media information will not be uploaded to the server, and will remain until you uninstall the application or request to remove the information, whichever is earlier. |
 | Women's Physiological Information | Menstrual duration, menstrual cycle.                         | Female physiological information will be retained until you request to remove the information or permanently deleted after 6 months from the date you cancel your account, whichever is earlier. |
 | Activity Information              | Number of steps, walking distance, calories burned, activity duration. | The event information will be retained until you request the removal of the information or it will be permanently deleted after 6 months from the date you cancel your account, whichever is earlier. |
 | Health Information                | Heart rate, sleep status, blood oxygen, electrocardiogram (ECG), body temperature, heart rate variability (HRV), etc. | Health information will be retained until you request to remove the information or permanently deleted after 6 months from the date you cancel your account, whichever is earlier. |
-| Product Information               | **Product activation date, battery measurement data, production number, debugging technical information, etc. ** | Product information is not associated with personal information and will be anonymized and stored permanently. |
+| Product Information               | **Product activation date, battery measurement data, production number, debugging technical information, etc**. | Product information is not associated with personal information and will be anonymized and stored permanently. |
 | Notification information          | Mobile application notification information.                 | The notification information is only used to be synchronized to the smart wearable device for display, the application does not save, and the smart wearable device side will remain until you request to remove the information. |
 | Service log information           | IP address, browser type, telecom operator, language used, access date and time, application crash information | Service log information is not associated with personal information, and will be permanently deleted after 6 months from the date of collection . |
 
@@ -383,7 +382,7 @@ Unless their parents have agreed in accordance with applicable laws, minors unde
 
 We may revise the contents of this "Personal Information Protection and Privacy Policy" in due course. If the change will result in a substantial change in your rights under this "Personal Information Protection and Privacy Policy", we will notify you through system push, email, SMS or page announcement before the change takes effect.
 
-If you do not agree to the change, you should stop using H Band products and services, or request cancellation of your account through the contact information published in this "Personal Information Protection and Privacy Policy". **If you continue to use our products or services, it means that you agree to be bound by the revised "Personal Information Protection and Privacy Policy". **
+If you do not agree to the change, you should stop using H Band products and services, or request cancellation of your account through the contact information published in this "Personal Information Protection and Privacy Policy". **If you continue to use our products or services, it means that you agree to be bound by the revised "Personal Information Protection and Privacy Policy"**.
 
 The substantial changes referred to in this "Personal Information Protection and Privacy Policy" include but are not limited to:
 
